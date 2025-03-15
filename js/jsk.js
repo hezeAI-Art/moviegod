@@ -1,4 +1,4 @@
-const apiKey = "YOUR_TMDB_API_KEY";
+const apiKey = "e1f0ea6bd4624b907cd5abe3612a5321";
 const baseURL = "https://api.themoviedb.org/3";
 
 async function getMovies() {
